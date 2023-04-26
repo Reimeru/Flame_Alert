@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flame Alert</string>
+    <string name="channel_name">Channel_1</string>
+    <string name="channel_description">Flame Alert channel 1</string>
+</resources>
